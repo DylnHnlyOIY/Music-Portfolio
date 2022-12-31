@@ -4,4 +4,6 @@
 
 ## Sound Engineering
 
-## Fun Stuff
+## Drummin'
+
+## Being Goofy
