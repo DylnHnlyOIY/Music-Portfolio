@@ -1,2 +1,7 @@
 # Music-Portfolio
-Repo for Music (Audio &amp; Videos)
+
+## Composed Music
+
+## Sound Engineering
+
+## Fun Stuff
