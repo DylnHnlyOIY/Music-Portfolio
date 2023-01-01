@@ -6,6 +6,4 @@
 
 ### Sound Engineering
 
-### Drummin'
-
-### Being Goofy
+### Drummin' Stuff
