@@ -1,10 +1,11 @@
 # Music-Portfolio
 
-#### File Dump For Music Stuff
-- [Gravity Fall Warm-Up](https://youtube.com/shorts/-01KoZl4znQ?feature=share)
-- [Drumline Stnad Tune](https://youtu.be/9JIdJxaKE5Y)
+### File Dump For Music Stuff
 
 ### Composed Music
+
+- [Gravity Fall Warm-Up](https://youtube.com/shorts/-01KoZl4znQ?feature=share)
+- [Drumline Stnad Tune](https://youtu.be/9JIdJxaKE5Y)
 
 ### Sound Engineering
 - [Experimenting with Sound Engineering](https://www.youtube.com/watch?v=UnRNf9fz1sA)
