@@ -21,6 +21,15 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 </details>
+
+<details><summary>Trio for Bass (with Drums)</summary>
+ 
+- [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Machine.pdf)
+- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+
+________________________________________________________________________________________________________________________________________
+
+</details>
 #### Drumline Cadence
 - [Machine](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Machine.pdf) - Sheet Music
 #### Drumline Stand Tunes
