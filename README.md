@@ -4,7 +4,7 @@
 
 ##### * If Sheet Music do not appear immediately, please refresh page or download the pdf files manually to view. Thank you
 
-<details><summary>Marching Band Show Mvt 1.</summary>
+<details><summary>Ambivalence Mvt 1.</summary>
  
 - [Sheet Music (Download for view full score)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
 - [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
