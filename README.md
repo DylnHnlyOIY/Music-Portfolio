@@ -2,10 +2,10 @@
 
 ## Composed Music
 
-- [Music Portfolio via Google Drive (Please view this Portfolio if Github Give you issues. Thank You](https://drive.google.com/drive/folders/1aPwaduY4NmDJOxOlSaFrSLU2P7Ho80Dv?usp=sharing)
+- [Music Portfolio via Google Drive](https://drive.google.com/drive/folders/1aPwaduY4NmDJOxOlSaFrSLU2P7Ho80Dv?usp=sharing)
 
 
-##### * If Sheet Music do not appear immediately, please refresh page or download the pdf files manually to view. Thank you
+##### * Please view the Google Drive Portfolio if Github Give you issues. Additionally, If Sheet Music do not appear immediately, please refresh the page or download the pdf files manually to view. Thank you
 
 #### Marching Band Show
 
