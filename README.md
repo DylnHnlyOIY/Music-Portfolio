@@ -2,8 +2,10 @@
 
 ## Composed Music
 
+##### * If Pdf files do not appear immediately, please refresh page or download the pdf files manually to view. Thank you
+
 #### Marching Band Show Mvt 1.
-- [Ambivalence Mvt 1.](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+- [Ambivalence Mvt 1.](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf) (Download for view full score)
 #### Trio for Bass (with Drums)
 - [Bass Trio with Drum](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Bass%20Trio.pdf)
 #### Drumline Cadence
