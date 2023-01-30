@@ -4,11 +4,11 @@
 
 # [Music Composition Portfolio Link](https://drive.google.com/drive/folders/1l8kI71y5L4JPQSpEIKVFHeOP3IjLyGQu?usp=share_link)
 
-### You can view All files here on Github if Google Drive gives you problems. 
+## You can view All files here on Github if Google Drive gives you problems. 
 
 _______________________________________________________________________________________________________________________________________
 
-#### Marching Band Show
+### Marching Band Show
 
 <details><summary>Ambivalence Mvt 1.</summary>
  
@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 </details>
 
-#### Trio
+### Trio
 
 <details><summary>Trio for Bass (with Drums)</summary>
  
@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 </details>
 
-#### Drumline Cadence
+### Drumline Cadence
 
 <details><summary>Machine</summary>
  
@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 </details>
 
-#### Drumline Stand Tunes
+### Drumline Stand Tunes
 
 <details><summary>Missy</summary>
  
