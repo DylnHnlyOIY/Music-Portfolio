@@ -30,12 +30,33 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 </details>
-#### Drumline Cadence
-- [Machine](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Machine.pdf) - Sheet Music
-#### Drumline Stand Tunes
-- [Missy](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Missy.pdf) - Sheet Music
-- [Triddy Diddy](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Triddy_Diddy.pdf) - Sheet Music
-- [Trixy](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Trixy.pdf) - Sheet Music
+
+<details><summary>Missy</summary>
+ 
+- [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Missy.pdf)
+- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+
+________________________________________________________________________________________________________________________________________
+
+</details>
+
+<details><summary>Triddy Diddy</summary>
+ 
+- [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Triddy_Diddy.pdf)
+- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+
+________________________________________________________________________________________________________________________________________
+
+</details>
+
+<details><summary>Trixy</summary>
+ 
+- [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Trixy.pdf)
+- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+
+________________________________________________________________________________________________________________________________________
+
+</details>
 
 ## Contact Info
  
