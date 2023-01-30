@@ -4,6 +4,8 @@
 
 ##### * If Sheet Music do not appear immediately, please refresh page or download the pdf files manually to view. Thank you
 
+#### Marching Band Show
+
 <details><summary>Ambivalence Mvt 1.</summary>
  
 - [Sheet Music (Download for view full score)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
@@ -12,6 +14,8 @@
 ________________________________________________________________________________________________________________________________________
 
 </details>
+
+### Trio
 
 <details><summary>Trio for Bass (with Drums)</summary>
  
@@ -22,6 +26,8 @@ ________________________________________________________________________________
 
 </details>
 
+### Drumline Cadence
+
 <details><summary>Machine</summary>
  
 - [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Machine.pdf)
@@ -30,6 +36,8 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 </details>
+
+### Drumline Stand Tunes
 
 <details><summary>Missy</summary>
  
