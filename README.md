@@ -14,6 +14,6 @@ https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Triddy_Diddy.pdf
 https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Trixy.pdf
 ## Contact Info
  
-###### - dhnlyoiy@gmail.com
+###### - dylnhnlyoiy@gmail.com
 ###### - dhensle63@charlottesvilleschools.org
 ###### - (510)387-1662
