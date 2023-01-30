@@ -8,7 +8,7 @@
  
  
 - [Ambivalence Mvt 1.](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf) - Sheet Music (Download for view full score)
-- [Audio File (Download to view](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
 
 ________________________________________________________________________________________________________________________________________
 
