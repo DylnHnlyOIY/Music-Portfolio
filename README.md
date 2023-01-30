@@ -3,7 +3,7 @@
 ## Composed Music
 
 #### Marching Band Show Mvt 1.
-
+<img src="media/Machine.png"
 #### Trio for Bass (with Drums)
 
 #### Drumline Cadence
