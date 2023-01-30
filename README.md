@@ -5,13 +5,12 @@
 ##### * If Sheet Music do not appear immediately, please refresh page or download the pdf files manually to view. Thank you
 
 <details><summary>Marching Band Show Mvt 1.</summary>
+- [Ambivalence Mvt 1.](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf) - Sheet Music (Download for view full score)
 
 ________________________________________________________________________________________________________________________________________
 
 </details>
 
-#### Marching Band Show Mvt 1.
-- [Ambivalence Mvt 1.](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf) - Sheet Music (Download for view full score)
 #### Trio for Bass (with Drums)
 - [Bass Trio with Drum](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Bass%20Trio.pdf) - Sheet Music
 #### Drumline Cadence
