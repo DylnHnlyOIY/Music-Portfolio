@@ -7,7 +7,7 @@
 <details><summary>Marching Band Show Mvt 1.</summary>
  
  
-- [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf) - (Download for view full score)
+- [Sheet Music (Download for view full score)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
 - [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
 
 ________________________________________________________________________________________________________________________________________
