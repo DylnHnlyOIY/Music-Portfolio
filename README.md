@@ -9,7 +9,7 @@
 <details><summary>Ambivalence Mvt 1.</summary>
  
 - [Sheet Music (Download for view full score)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
-- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.mp3)
 
 ________________________________________________________________________________________________________________________________________
 
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 <details><summary>Trio for Bass (with Drums)</summary>
  
 - [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Bass%20Trio.pdf)
-- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Bass%20Trio.mp3)
 
 ________________________________________________________________________________________________________________________________________
 
@@ -31,7 +31,7 @@ ________________________________________________________________________________
 <details><summary>Machine</summary>
  
 - [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Machine.pdf)
-- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Machine.mp3)
 
 ________________________________________________________________________________________________________________________________________
 
@@ -42,7 +42,7 @@ ________________________________________________________________________________
 <details><summary>Missy</summary>
  
 - [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Missy.pdf)
-- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Missy.mp3)
 
 ________________________________________________________________________________________________________________________________________
 
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 <details><summary>Triddy Diddy</summary>
  
 - [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Triddy_Diddy.pdf)
-- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Triddy_Diddy.mp3)
 
 ________________________________________________________________________________________________________________________________________
 
@@ -60,7 +60,7 @@ ________________________________________________________________________________
 <details><summary>Trixy</summary>
  
 - [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Trixy.pdf)
-- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+- [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Trixy.mp3)
 
 ________________________________________________________________________________________________________________________________________
 
