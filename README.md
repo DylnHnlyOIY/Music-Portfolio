@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 </details>
 
-<details><summary>Trio for Bass (with Drums)</summary>
+<details><summary>Machine</summary>
  
 - [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Machine.pdf)
 - [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
