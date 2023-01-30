@@ -3,15 +3,17 @@
 ## Composed Music
 
 #### Marching Band Show Mvt 1.
-https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf
+- [Ambivalence Mvt 1.](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+
 #### Trio for Bass (with Drums)
-https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Bass%20Trio.pdf
+- [Bass Trio with Drum](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Bass%20Trio.pdf)
 #### Drumline Cadence
-https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Machine.pdf
+- [Machine](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Machine.pdf)
 #### Drumline Stand Tunes
-https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Missy.pdf
-https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Triddy_Diddy.pdf
-https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Trixy.pdf
+- [Missy](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Missy.pdf)
+- [Triddy Diddy](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Triddy_Diddy.pdf)
+- [Trixy](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Trixy.pdf)
+
 ## Contact Info
  
 ###### - dylnhnlyoiy@gmail.com
