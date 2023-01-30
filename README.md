@@ -6,7 +6,6 @@
 
 <details><summary>Marching Band Show Mvt 1.</summary>
  
- 
 - [Sheet Music (Download for view full score)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
 - [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
 
@@ -16,8 +15,7 @@ ________________________________________________________________________________
 
 <details><summary>Trio for Bass (with Drums)</summary>
  
- 
-- [Bass Trio with Drum](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Bass%20Trio.pdf)
+- [Sheet Music](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Bass%20Trio.pdf)
 - [Audio File (Download to view)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
 
 ________________________________________________________________________________________________________________________________________
