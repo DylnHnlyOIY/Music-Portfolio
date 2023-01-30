@@ -2,7 +2,7 @@
 
 ## Composed Music
 
-- [Music Portfolio](Download for view full score)](https://github.com/DylnHnlyOIY/Music-Portfolio/blob/main/media/Ambivalence.pdf)
+- [Music Portfolio via Google Drive (Please view this Portfolio if Github Give you issues. Thank You](https://drive.google.com/drive/folders/1aPwaduY4NmDJOxOlSaFrSLU2P7Ho80Dv?usp=sharing)
 
 
 ##### * If Sheet Music do not appear immediately, please refresh page or download the pdf files manually to view. Thank you
